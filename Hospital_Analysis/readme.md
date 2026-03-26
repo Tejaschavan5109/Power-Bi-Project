@@ -37,11 +37,4 @@ This project provides an interactive **Hospital Dashboard** designed to analyze 
 ## 🛠️ Tech Stack
 - **Power BI / Excel** for dashboard creation
 - **SQL/MySQL** for data extraction and transformation
-- **Python (Pandas, Matplotlib)** for preprocessing and visualization (optional)
 
----
-
-## 🚀 Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/tejaschavan5109/hospital-dashboard.git
